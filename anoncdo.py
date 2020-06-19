@@ -18,12 +18,13 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet ANON CDO")
 print
 print "Anonymous CDO : TASAROV"
 print "    ZEDD      : http://z-devs.tech/"
-print "     SS       : https://github.com/Ha3MrX"
+print "     SS       : https://web.facebook.com/seventhsenseoff"
 print "  Facebook    : https://www.facebook.com/tasarov.tasarov.7"
+print "Anonymous PH  : https://web.facebook.com/www.anonymous.ph"
 print
 print "May my enemies live long enough to see my success. - TASAROV"
 print
